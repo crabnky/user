@@ -17,7 +17,7 @@
         }
     ],
     "repositories": [
-        { "type": "vcs", "url": "https://github.com/crabnky/domain" }
+        { "type": "composer", "url": "https://github.com/crabnky/domain" }
     ],
     "require": {
         "msgphp/domain": "dev-main as 0.15"
