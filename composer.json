@@ -20,7 +20,7 @@
         { "type": "vcs", "url": "https://github.com/crabnky/domain" }
     ],
     "require": {
-        "msgphp/domain": "dev-master as 0.15"
+        "msgphp/domain": "dev-main as 0.15"
     },
     "require-dev": {
         "doctrine/orm": "^2.6",
@@ -34,11 +34,6 @@
             "*": "dist"
         },
         "sort-packages": true
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.15-dev"
-        }
     },
     "autoload": {
         "psr-4": {
